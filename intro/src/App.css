@@ -1,0 +1,22 @@
+.page {
+  display: flex;
+  margin-top: 300px;
+  justify-content: center;
+}
+
+.list-name {
+  list-style: none;
+  width:fit-content;
+  margin-top: 0px;
+}
+
+.name {
+  border: solid black 1px;
+  padding: 5px;
+  cursor: pointer;
+}
+
+.Details-container, .Details-name, .Details-city, .Details-company, .Details-position {
+  border: solid black 1px;
+  padding: 5px;
+}
